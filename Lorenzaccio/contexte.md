@@ -1,5 +1,9 @@
 # Date et Contexte historique
 
+[![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-success)](#curiculum-vitae)
+[![Le romantisme](https://img.shields.io/badge/Le%20Romantisme-success)](#le-romantisme)
+[![Lorenzaccio](https://img.shields.io/badge/Lorenzaccio-success)](#lorenzaccio)
+
 ## Curriculum Vitae
 **Alfred de Musset** (1810-1857) est un écrivain et poète du $XIX$ e siècle, connue pour son implication notable dans le courant romantique.  
 Il grandit dans un milieu bourgeois, tout en étant naturellement doué pour l'écriture. Il fréquenteras les cercles artistiques privilégiés de son époque, et notamment **Victor Hugo** ou **Georges Sand**.   
