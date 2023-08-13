@@ -15,16 +15,16 @@ Pour utiliser facilement ce dépot je vous recommande de le cloner:
 
 2. **Naviguez vers le répertoire souhaité :**
 ```sh
-   cd chemin/vers/repertoire
+cd chemin/vers/repertoire
 ```
 3. **Clonez le dépôt :**
 ```sh
-    git clone https://github.com/Bespocke/Francais-2024.git
+git clone https://github.com/Bespocke/Francais-2024.git
 ```
 
 4. **Accédez au répertoire du dépôt cloné :**
 ```sh
-    cd Francais-2024
+cd Francais-2024
 ```
 
 ### Cloner sur macOS
@@ -33,23 +33,23 @@ Pour utiliser facilement ce dépot je vous recommande de le cloner:
     1.1. Ouvrez l'application **Terminal** depuis le dossier **Applications > Utilitaires**.  
     1.2. Si vous ne possédez pas **Homebrew** :   
     ```bash
-        /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     ```
 2. **Naviguez vers le répertoire souhaité :**
 
 ```sh
-    cd chemin/vers/repertoire
+cd chemin/vers/repertoire
 ```
 3. **Clonez le dépôt :**
 
 ```sh
-    git clone https://github.com/Bespocke/Francais-2024.git
+git clone https://github.com/Bespocke/Francais-2024.git
 ```
 
 4. **Accédez au répertoire du dépôt cloné :**
 
 ```sh
-    cd Francais-2024
+cd Francais-2024
 ```
 
 ## Contact
