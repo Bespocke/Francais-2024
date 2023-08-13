@@ -1,6 +1,6 @@
 # Francais-2024
 
-Dans ce dépot vous trouverez 
+Dans ce dépot vous trouverez des documents en lien avec le thème de l'année 2024 : Faire croire
 
 ## Contact
 
