@@ -52,6 +52,29 @@ git clone https://github.com/Bespocke/Francais-2024.git
 cd Francais-2024
 ```
 
-## Contact
+### Cloner sur Linux
+
+1. **Ouvrez le Terminal :**
+    Utilisez le terminal de votre distribution Linux.
+
+2. **Naviguez vers le répertoire souhaité :**
+
+```sh
+cd chemin/vers/repertoire
+```
+
+3. **Clonez le dépôt :**
+
+```sh
+git clone https://github.com/Bespocke/Francais-2024.git
+```
+
+4. **Accédez au répertoire du dépôt cloné :**
+
+```sh
+cd Francais-2024
+```
+
+# Contact
 
 Si vous avez des questions, des suggestions ou des commentaires, n'hésitez pas à me contacter par e-mail à l'adresse suivante : [n.xhoffray@laposte.net](mailto:n.xhoffray@laposte.net). Je suis ouvert aux discussions et aux retours d'expérience.
