@@ -43,13 +43,13 @@ Pour utiliser facilement ce dépot je vous recommande de le cloner:
 3. **Clonez le dépôt :**
 
 ```sh
-git clone https://github.com/Bespocke/Francais-2024.git
+    git clone https://github.com/Bespocke/Francais-2024.git
 ```
 
 4. **Accédez au répertoire du dépôt cloné :**
 
 ```sh
-cd Francais-2024
+    cd Francais-2024
 ```
 
 ## Contact
