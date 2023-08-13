@@ -30,24 +30,30 @@ Mouvement artistique émergeant à la fin du $XVIII$ e siècle et atteignant son
 <br>
 
 **Parmi les romantiques célèbres on compte :**
- - Victor Hugo -> <u>Les Misérables</u>, <u>Les contemplations</u>
- - Alexandre Dumas -> <u>Les trois mousquetaires</u>
- - Edgar Allan Poe -> <u>The Raven</u>
- - Lord Byron -> <u>Don Juan</u>
- - Johann Wolfgang von Goethe -> <u>Faust</u>
- - George Sand -> <u>Une conspiration en 1537</u>
- - Eugène Delacroix -> <u>La liberté guidant le peuple</u>
- - Caspar David Friedrich -> <u>Le voyageur contemplant une mer de nuages</u>
+ - **Victor Hugo** -> <u>Les Misérables</u>, <u>Les contemplations</u>
+ - **Alexandre Dumas** -> <u>Les trois mousquetaires</u>
+ - **Edgar Allan Poe** -> <u>The Raven</u>
+ - **Lord Byron** -> <u>Don Juan</u>
+ - **Johann Wolfgang von Goethe** -> <u>Faust</u>, <u>Götz von Berlichigen</u> véritable provocation des règles classiques
+ - **George Sand** -> <u>Une conspiration en 1537</u>
+ - **Eugène Delacroix** -> <u>La liberté guidant le peuple</u>
+ - **Caspar David Friedrich** -> <u>Le voyageur contemplant une mer de nuages</u>
 
+## La France en 1834
+La révolution de 1830, seconde après la révoltion de de 1789, installe sur le trône **Louis-Philippe**. Après l'attentat de Fieschi en 1835, toute atteinte à l'autorité est répréhensible. Ainsi nombreux sont les théâtres à être surveillés, cette censure ménera à la délocalisation spatiale et temporelle des pièces, et donc à l'essor du drame historique.
+
+### Le drame historique
+Le drame historique se sert du passé pour mettre parler du présent. Par exemple <u>Marie Stuart</u> de **Friedrich Schiller** traitant du conflit entre Marie Stuart et Elisabeth $I$ d'angleterre. Ce genre s'ancre parfaitement dans le romantisme et l'exploration d'univers fictifs, il permet également de fortifier l'identité nationale, mais surtout est favorisé par les fructueuses découvertes historiques de l'époque.
 
 ## Lorenzaccio
 Des suites de la Révolution et de l'Empire, le drame romantique tente d'interroger le peuple, remettre en question le système, de mettre en lumière le présent en mettant en scène le passé
 
-Déjà narré par Marguerite de Navarre dans <u>Heptaméron</u> et par Benedetto Varchi dans <u>Storia fiorentina</u> ou <u>La chronique Florentine</u>.  
-Cependant en 1833 : George Sand forte de sa nouvelle romance avec Musset, lui offre <u>Une conspiration en 1537</u> contant en six tableaux l'assassinat d'Alexandre de Médicis par son cousin Lorenzaccio
+Déjà narré par **Marguerite de Navarre** dans <u>Heptaméron</u> et par **Benedetto Varchi** dans <u>Storia fiorentina</u> ou <u>La chronique Florentine</u>.  
+Cependant en 1833 : **George Sand** forte de sa nouvelle romance avec Musset, lui offre <u>Une conspiration en 1537</u> contant en six tableaux l'assassinat d'Alexandre de Médicis par son cousin Lorenzaccio
 
-Ecrite en 1833 par **Alfred de Musset**, et publiée en 1834 dans <u>Un spectacle dans un fauteuil</u>, Musset s'approprie le manuscrit de Georges Sand, en étoffant la ville de Florence, les sous intrigues ainsi que les personnages secondaires.  
+Ecrite en 1833 par **Alfred de Musset**, et publiée en 1834 dans <u>Un spectacle dans un fauteuil</u>, Musset s'approprie le manuscrit de **Georges Sand**, en étoffant la ville de Florence, les sous intrigues ainsi que les personnages secondaires.  
 On observera ainsi trois niveaux d'écritures:
 1. Lorenzaccio et son cousin le Duc, Alexandre de Médicis
 2. Les intrigues secondaires
 3. La ville de Florence
+
