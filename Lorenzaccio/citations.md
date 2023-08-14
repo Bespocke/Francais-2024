@@ -1,5 +1,7 @@
 # Citations du texte
 
+## Acte I
+
 - Acte $I$ scène1
 
 Incipit in media res, permet au spectateur de ne pas être au courant de toutes les subtilitées dès le début de la pièce. Également cela permet de créer un sentiment de supsens et d'engement du public permettant de le rendre plus naïfs quand aux intrigues.
@@ -12,6 +14,7 @@ L'orfèvre dépeint ici une destruction préméditée de par les métaphores "en
 
 La marquise Cibo qui fort de son adultère regretté avec Alexandre de Mécidis, feint une façade, un masque social à l'instar de l'image populaire des masques vénitiens. Plus tard, Lorenzo sera mis au courant de cette liaison dans la scène 4 de l'Acte $III$, et usera de cette liaison, pour éloigner Alexandre de Florence
 
-<br>
+## Acte II
+
 
 # Culture générale liée à Lorenzaccio
