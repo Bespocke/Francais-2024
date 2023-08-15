@@ -35,10 +35,34 @@ On nous précise que Musset tente de camoufler le caractère de Lorenzo, là où
 - Acte $II$ scène 2 : Alors, tu n'es q'un batârd, car ta mère n'est qu'une catin.
 
 En parlant ainsi de Florence, Lorenzo semble un des seuls éveillés, au courant de l'état dans lequel se trouve leur ville.
-
+##
 - Acte $II$ scène 3 : Qu'il épuise sa force contre des ombres d'hommes gonflés d'une ombre de puissance, je serai l'anneau invisible qui l'attachera, pieds et poings liés, à la chaine de fer dont Rome er César tiennent les deux bouts.
 
 Le cardinal de Cibo est un des premiers au courant de la liaison, entre Le Duc et la marquise. Il pense pouvoir user de cette information cpour faire pression sur le Duc, là où dans la réalité des faits, Alexandre possède plus d'intérêt à garder la cardinal, afin d'étendre et de fortifier son influence.
+- Cela n'est pas possible ! -Il y a quelque autre mystère plsu sombre et plsu inexplicable là-dessous ; Cibo ne ferait pas un pareil métier. Non ! cela est sûr;je le connais. C'est bon pour un Lorenzaccio ; mais lui il faut qu'il ait quelque sourde pensée
 
+La marquise Cibo témoigne du comportement intriguant, que le cardinal porte envers elle, comme si ce dernier la poussait dans les bras d'Alexandre. Un role qui ne semble pas lui sied de par sa profession
+##
+- Acte $II$ scène 4 
+
+Lorenzo use de sa relation privilégié avec le Duc, pour ibtenir à son oncle Bindo et Venturi, des privilèges. Montrant, si on ne s'en était pas encore rednus compte, sa remarquable éloquence et capacité de persuasion. Ceci dénotte fortement de l'image frêle et faible qu'il tente de transmettre.
+##
+- Acte $II$ scène 4 : Bon ! Si vous saviez comme cela est aisé de mentir au nez d'un butor ! Cela prouve bien que vous n'avez jamais essayé.
+
+Dit Lorenzo
+##
+-
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>
 
 # Culture générale liée à Lorenzaccio

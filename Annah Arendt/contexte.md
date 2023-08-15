@@ -10,7 +10,7 @@ D'après Arendt il n'existe que 2 régimes totalitaires, le régime Nazi, le ré
 Les autres sont des régimes tyranniques mais non totalitaire, par exemple Mussolini.  
 Ceci lui coûtera de nombreuses critiques, notamment quand elle traitera du procède Heichmann, beaucoup verront dans ces propos une manière de justifier le comportement nazi, là où cette dernière remettait simplement en contexte les actes et l'endoctrinement sous-jacent. Elle interprètera, le manque de réaction de Heichmann, non pas par une forme de pyschopathie, mais par un endoctrinement.
 
-Par exemple dans Lorenzaccio Alexandre de Médicis est un tyran, mais n'est pas totalitaire, car ce dernier ne possède pas d'idéologie. Alexandre ne se prive pas de bannir Maffio, qui a simplement tiré son épée envers lui. Ce dernier est également très capricieux usant de la fortune de sa ville, pour organiser de nombreuses fêtes et banquets.
+<blockquote>Par exemple dans Lorenzaccio Alexandre de Médicis est un tyran, mais n'est pas totalitaire, car ce dernier ne possède pas d'idéologie. Alexandre ne se prive pas de bannir Maffio, qui a simplement tiré son épée envers lui. Ce dernier est également très capricieux usant de la fortune de sa ville, pour organiser de nombreuses fêtes et banquets. Dans la scène 4 du second acte de Lorenzaccio Bindo précise que " Le despotisme des Médicis n'est ni juste ni tolérable.".</blockquote>
 
 <br>
 
