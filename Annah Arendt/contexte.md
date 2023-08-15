@@ -8,5 +8,5 @@
 
 D'après Arendt il n'existe que 2 régimes totalitaires, le régime Nazi, le régime Stalinien.
 Les autres sont des régimes tyranniques mais non totalitaire, par exemple Mussolini.  
-Ceci lui coûtera de nombreuses critiques, notamment quand elle traitera du procède Heichmann, beaucoup verront dans ces propos une manière de justifier le comportement nazi, là où cette dernière remettait simplement en contexte les actes et l'endoctrinnement sous-jacent. Elle interprètera, le manque de réaction de Heichmann, non pas par une forme de pyschopatisme, mais par un endoctrinnement.
+Ceci lui coûtera de nombreuses critiques, notamment quand elle traitera du procède Heichmann, beaucoup verront dans ces propos une manière de justifier le comportement nazi, là où cette dernière remettait simplement en contexte les actes et l'endoctrinement sous-jacent. Elle interprètera, le manque de réaction de Heichmann, non pas par une forme de pyschopathie, mais par un endoctrinement.
 
