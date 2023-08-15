@@ -38,7 +38,7 @@ En parlant ainsi de Florence, Lorenzo semble un des seuls éveillés, au courant
 
 - Acte $II$ scène 3 : Qu'il épuise sa force contre des ombres d'hommes gonflés d'une ombre de puissance, je serai l'anneau invisible qui l'attachera, pieds et poings liés, à la chaine de fer dont Rome er César tiennent les deux bouts.
 
-Le cardinal de Cibo est un des premiers au courant de la liaison, entre Le Duc et la marquise. 
+Le cardinal de Cibo est un des premiers au courant de la liaison, entre Le Duc et la marquise. Il pense pouvoir user de cette information cpour faire pression sur le Duc, là où dans la réalité des faits, Alexandre possède plus d'intérêt à garder la cardinal, afin d'étendre et de fortifier son influence.
 
 
 # Culture générale liée à Lorenzaccio
