@@ -32,5 +32,13 @@ On nous précise que Musset tente de camoufler le caractère de Lorenzo, là où
 
 ## Acte II
 
+- Acte $II$ scène 2 : Alors, tu n'es q'un batârd, car ta mère n'est qu'une catin.
+
+En parlant ainsi de Florence, Lorenzo semble un des seuls éveillés, au courant de l'état dans lequel se trouve leur ville.
+
+- Acte $II$ scène 3 : Qu'il épuise sa force contre des ombres d'hommes gonflés d'une ombre de puissance, je serai l'anneau invisible qui l'attachera, pieds et poings liés, à la chaine de fer dont Rome er César tiennent les deux bouts.
+
+Le cardinal de Cibo est un des premiers au courant de la liaison, entre Le Duc et la marquise. 
+
 
 # Culture générale liée à Lorenzaccio
