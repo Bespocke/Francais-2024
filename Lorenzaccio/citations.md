@@ -30,7 +30,7 @@ On nous précise que Musset tente de camoufler le caractère de Lorenzo, là où
 
 <br>
 
-## Acte II
+## Acte $II$
 
 - Acte $II$ scène 2 : Alors, tu n'es q'un batârd, car ta mère n'est qu'une catin.
 
@@ -50,8 +50,9 @@ Lorenzo use de sa relation privilégié avec le Duc, pour ibtenir à son oncle B
 - Acte $II$ scène 4 : Bon ! Si vous saviez comme cela est aisé de mentir au nez d'un butor ! Cela prouve bien que vous n'avez jamais essayé.
 
 Dit Lorenzo
-##
--
+
+## Acte $III$
+
 
 
 
