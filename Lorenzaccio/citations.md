@@ -45,7 +45,7 @@ La marquise Cibo témoigne du comportement intriguant, que le cardinal porte env
 ##
 - Acte $II$ scène 4 
 
-Lorenzo use de sa relation privilégié avec le Duc, pour ibtenir à son oncle Bindo et Venturi, des privilèges. Montrant, si on ne s'en était pas encore rednus compte, sa remarquable éloquence et capacité de persuasion. Ceci dénotte fortement de l'image frêle et faible qu'il tente de transmettre.
+Lorenzo use de sa relation privilégié avec le Duc, pour obtenir à son oncle Bindo et Venturi, des privilèges. Montrant, si on ne s'en était pas encore rednus compte, sa remarquable éloquence et capacité de persuasion. Ceci dénotte fortement de l'image frêle et faible qu'il tente de transmettre.
 ##
 - Acte $II$ scène 4 : Bon ! Si vous saviez comme cela est aisé de mentir au nez d'un butor ! Cela prouve bien que vous n'avez jamais essayé.
 
@@ -55,9 +55,17 @@ Dit Lorenzo
 
 ## Acte $III$
 
+- Acte $III$ scène 3 : Le rôle que tu joue est un rôle de boue et de lèpre, tel que l'enfant prodifue ne l'aurait pas joué un jour de démence.
 
+Philippe Strozi, est le premier a être conscient du masque que peut revêtir Lorenzo, pour cacher ses intentions. En dépit de tout il est le seul à lui avoir réellement fait confiance.
+##
+- Acte $III$ scène 3 : La tâche que je m'imposais était rude avec Alexandre. [...] POur plaire à mon cousin, il fallait arriver à lui, porté par les larmes des familles , pour devenir son ami ; et acquérir sa confiance, il fallait baiser sur ses lèvres épaisses tous les restes de ses orgies.
 
+Lorenzo reconnapit ouvertement, devant Philippe Strozi, avoir manipulé son cousin le Duc, afin de l'assassiner, ce qu'il n'avait put faire avec Clément $VII$
 
+<br>
+
+## Acte $IV$
 
 
 
