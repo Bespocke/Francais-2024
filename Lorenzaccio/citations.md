@@ -14,7 +14,7 @@ L'orfèvre dépeint ici une destruction préméditée de par les métaphores "en
 ##
 - Acte $I$ scène 3
 
-La marquise Cibo qui fort de son adultère regretté avec Alexandre de Mécidis, feint une façade, un masque social à l'instar de l'image populaire des masques vénitiens. Plus tard, Lorenzo sera mis au courant de cette liaison, et usera de cette liaison, pour éloigner Alexandre de Florence.
+La marquise Cibo qui fort de son adultère regretté avec Alexandre de Mécidis, feint une façade, un masque social à l'instar de l'image populaire des masques vénitiens.
 ##
 - Acte $I$ scène 4 : Renzo, un homme à craindre ! le plus fiéffé poltron ! une femmelette, l'ombre d'un ruffian énervé ! un rêveur qui marche nuit et jour sans épée, de peur d'en apercevoir l'ombre à son côté !
 
@@ -39,7 +39,7 @@ En parlant ainsi de Florence, Lorenzo semble un des seuls éveillés, au courant
 - Acte $II$ scène 3 : Qu'il épuise sa force contre des ombres d'hommes gonflés d'une ombre de puissance, je serai l'anneau invisible qui l'attachera, pieds et poings liés, à la chaine de fer dont Rome er César tiennent les deux bouts.
 
 Le cardinal de Cibo est un des premiers au courant de la liaison, entre Le Duc et la marquise. Il pense pouvoir user de cette information cpour faire pression sur le Duc, là où dans la réalité des faits, Alexandre possède plus d'intérêt à garder la cardinal, afin d'étendre et de fortifier son influence.
-- Cela n'est pas possible ! -Il y a quelque autre mystère plsu sombre et plsu inexplicable là-dessous ; Cibo ne ferait pas un pareil métier. Non ! cela est sûr;je le connais. C'est bon pour un Lorenzaccio ; mais lui il faut qu'il ait quelque sourde pensée
+- Cela n'est pas possible ! -Il y a quelque autre mystère plus sombre et plsu inexplicable là-dessous ; Cibo ne ferait pas un pareil métier. Non ! cela est sûr;je le connais. C'est bon pour un Lorenzaccio ; mais lui il faut qu'il ait quelque sourde pensée
 
 La marquise Cibo témoigne du comportement intriguant, que le cardinal porte envers elle, comme si ce dernier la poussait dans les bras d'Alexandre. Un role qui ne semble pas lui sied de par sa profession
 ##
@@ -55,9 +55,9 @@ Dit Lorenzo
 
 ## Acte $III$
 
-- Acte $III$ scène 3 : Le rôle que tu joue est un rôle de boue et de lèpre, tel que l'enfant prodifue ne l'aurait pas joué un jour de démence.
+- Acte $III$ scène 3 : Le rôle que tu joue est un rôle de boue et de lèpre, tel que l'enfant prodigue ne l'aurait pas joué un jour de démence.
 
-Philippe Strozi, est le premier a être conscient du masque que peut revêtir Lorenzo, pour cacher ses intentions. En dépit de tout il est le seul à lui avoir réellement fait confiance.
+Philippe Strozi, est le premier a être conscient du masque que peut revêtir Lorenzo, pour cacher ses intentions. En dépit de tout, il un est des seul à lui avoir réellement fait confiance.
 ##
 - Acte $III$ scène 3 : La tâche que je m'imposais était rude avec Alexandre. [...] POur plaire à mon cousin, il fallait arriver à lui, porté par les larmes des familles , pour devenir son ami ; et acquérir sa confiance, il fallait baiser sur ses lèvres épaisses tous les restes de ses orgies.
 
@@ -67,6 +67,17 @@ Lorenzo reconnapit ouvertement, devant Philippe Strozi, avoir manipulé son cous
 
 ## Acte $IV$
 
+- Acte $IV$ scène 5 : Par le ciel ! quel homme de cire suis-je donc ? Le Vice, comme la robe de Déjanire, s'est-il si profondément incorporé à mes fibres, que je ne puisse plus répondre de ma langue, et que l'air qui sort de mes lèvres se fasse ruffian malgré moi?
+
+Afin d'accomplir sa tâche, Lorenzo a du se refermer sur lui même, se mentir à lui même. Et usera de tous les moyens possibles, pour accomplir son devoir. "La fin justifie les moyens"
+##
+- Acte $IV$ scène 11: Ne te souviens-tu pas qu'il sont habitués à notre tapage ? 
+
+Cette phrase met en lumière tout le travail dont à fait preuve Renzo, afin de tuer son cousin.
+
+<br>
+
+# Acte $V$
 
 
 
