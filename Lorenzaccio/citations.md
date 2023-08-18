@@ -79,11 +79,9 @@ Cette phrase met en lumière tout le travail dont à fait preuve Renzo, afin de 
 
 # Acte $V$
 
+- Acte $V$ scène 1 : Primo avulso, non deficit alter Aureus, et simili frondescit virga metallo
 
-
-
-
-
+Le premier rameau d'or arraché se remplace par un autre et une même branche du même métal pousse aussitôt de l'Eneide de Virgile, idem aux têtes de l'hydre quand on en coupe une, une autre repousse. Il est vain d'essayer de destituer un tyran, si on ne boulverse pas le système qui l'a mis au pouvoir.
 
 <br><br><br>
 
