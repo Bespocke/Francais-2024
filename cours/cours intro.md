@@ -12,7 +12,7 @@ croire : tenir pour vérité mais sans consistance, exemple : Cécile de Volange
 - celle en attente de vérification : imprévisible mais qui possède une probabilité de réalisation
 - sociale : découlant des valeurs de l'individu
 
-### Ainsi on peut se demander si la croyance dépend d'un besoin anthropologique.
+#### <center>Ainsi on peut se demander si la croyance dépend d'un besoin anthropologique.</center>
 car faire croire, c'est faire adhérer une personne ou un groupe à une croyance, donc une manipulation plus ou moins nocives pour les concernés 
 
 La notion de "faire croire" est présente dans la nature, chez les insectes/animaux ou chez les humains exemple : père noël.  
@@ -36,7 +36,7 @@ Etant donné que, le trompeur peut se faire prendre à son propre jeu, et même 
     -le superstitieux, le faible
 
 Ainsi faire "faire croire" semble tiré vers le négatif, cependant :
-### <center>"Faire croire" est-il toujours négatif, ou peut-on en tirer du positif?</center>
+### <center><span style="color:red">"Faire croire" est-il toujours négatif, ou peut-on en tirer du positif?</span></center>
 
 ## I / différentes conception de la croyance
 ### 1- Descartes (1596-1650)
@@ -53,7 +53,20 @@ Les gens qui en use sont des mythomanes, tout le monde sait qu'ils mentent, mais
 ### 4- Le complotisme
 Le conspirateur prétend pouvoir décrypter les messages secrets.
 
-### Il y a au fond, 2 types de croyances, d'abord une croyance ordinaire / involontaire, presque naturelle et qui disparait au moment où elle se révèle fausse. Et un ecroyance qui ne se préoccupe pas de la réalité et qui tente de rameuter les gens à un groupe, elle s'insert d'ailleurs dans des jeux de pouvoirs
+#### <center>Il y a au fond, 2 types de croyances, d'abord une croyance ordinaire / involontaire, presque naturelle et qui disparait au moment où elle se révèle fausse. Et un ecroyance qui ne se préoccupe pas de la réalité et qui tente de rameuter les gens à un groupe, elle s'insert d'ailleurs dans des jeux de pouvoirs</center>
 
-## II / 
+## II / Les signes du faire croire : mécanismes et buts
+### 1- Les mécanismes
+#### A ) Vocabulaire
+- tromper : induire en erreur, semer le doute, mentir intentionellement  
+- mentir : dissimuler, endoctriner   
+
+#### <center>Faire croire c'est avoir la capacité de mentir, aller jusqu'au bout de son message.</center>
+#### B ) signes physique / physiologiques
+Par exemple les évanouissements, palpitations, sudation excessive, rougeurs etc ...  
+Le corps parle symboliquement, il fait croire le désir, la passion.  
+- Lettre XVIII : "Le coeur me battait si fort, que ce fut tout ce que je pus faire" puis "je rencontrais ces yeux" dans la même lettre 
+
+Cécile semble réduite à un emécanique corporelle qui se laisse diagnostiquer qu'elle est tombée amoureuse, ici laisser croire c'est laissé voir (Denseny a très bien vu les signes).
+
 
